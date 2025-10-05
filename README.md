@@ -1,7 +1,9 @@
 🧭 Career Guidance Project
 A user-friendly web application built with HTML, CSS, and JavaScript, designed to help students and professionals navigate their career paths. This platform provides detailed information on various career fields, top universities, and valuable resources to help users make informed decisions.
 
-✨ [View the Live Demo]([https://career-guidance-mohdsahil.netlify.app/])
+✨ View the Live Demo:- [https://career-guidance-mohdsahil.netlify.app/]
+
+
 📸 **Screenshots**:-
 Home Page:-
 <img width="1920" height="1080" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/8c902026-e41e-426f-8dc4-023a438f8a9a" />
